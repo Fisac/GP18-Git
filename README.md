@@ -1,2 +1,2 @@
 # GP18-Git
-Temporary git repo for GP18
+Welcome to github! Today we will teach you all you need to know in order to become a true git-master.
