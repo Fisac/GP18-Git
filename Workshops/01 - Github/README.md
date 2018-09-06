@@ -26,8 +26,6 @@ Today we're going to learn about [Git](https://git-scm.com), a [version control]
 
 9. You should now see your changes appear on your repository page on GitHub.
 
-10. Already done? Awesome! Go and fetch a GitHub sticker!
-
 ## Assignments part two
 
 1. In GitHub Desktop, create a new [branch](https://en.wikipedia.org/wiki/Branching_(version_control)) in your repo and name it `Feature`.
