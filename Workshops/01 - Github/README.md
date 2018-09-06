@@ -52,9 +52,9 @@ Today we're going to learn about [Git](https://git-scm.com), a [version control]
 - [Documentation](https://git-scm.com) - Git
 - [Getting Started](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - Git
 - [Git](https://en.m.wikipedia.org/wiki/Git) - Wikipedia
-- [GitHub Desktop](https://yrgo.github.io/applications/github-desktop) - Yrgo
+- [GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/) - Yrgo
 - [Guides](https://guides.github.com) - GitHub
-- [Markdown](https://yrgo.github.io/languages/markdown) - Yrgo
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Yrgo
 - [Oh shit, git!](http://ohshitgit.com) - Katie Sylor-Miller
 - [Open Source Guides](https://opensource.guide) - GitHub
 - [Student Developer Pack](https://education.github.com/pack) - GitHub
