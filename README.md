@@ -1,2 +1,2 @@
 # GP18-Git
-Welcome to github! Today we will teach you all you need to know in order to become a true git-master, like noone ever was!
+Welcome to github! Today we will teach you all you need to know in order to become a true git-master, like no one ever was!
