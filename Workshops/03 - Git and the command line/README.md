@@ -77,7 +77,7 @@ $ xcode-select --install
 
 ## Extra
 
-1. Give us your best video game tip by contributing to [this list](https://github.com/marieeriksson/awesome-games).
+1. Give us your best video game tip by contributing to [this list](https://github.com/Fisac/List-of-games).
 
 ## Resources
 
