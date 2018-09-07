@@ -22,7 +22,7 @@ Today we're going to learn about [Git](https://git-scm.com), a [version control]
 
 7. Back in GitHub Desktop, add a new commit message/summary and [commit your changes to master branch](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project).
 
-8. [Push your changes to GitHub](https://help.github.com/desktop/guides/contributing/syncing-your-branch).
+8. [Push your changes to GitHub](https://help.github.com/desktop/guides/contributing-to-projects/syncing-your-branch/).
 
 9. You should now see your changes appear on your repository page on GitHub.
 
