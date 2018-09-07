@@ -14,7 +14,7 @@ Today we're going to learn about [Git](https://git-scm.com), a [version control]
 
 3. [Create a new repository on GitHub](https://help.github.com/articles/creating-a-new-repository), name it `hello-world`.
 
-4. [Clone the repository with GitHub Desktop](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop) and open up the project in your favorite editor.
+4. [Clone the repository with GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/) and open up the project in your favorite editor.
 
 5. Create a new [Markdown](https://yrgo.github.io/languages/markdown) file and call it [`README.md`](https://guides.github.com/features/wikis).
 
